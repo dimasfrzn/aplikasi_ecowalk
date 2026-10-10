@@ -2,8 +2,8 @@
 
 Aplikasi mobile **EcoWalk** dibuat dengan Flutter sebagai **Tugas 1 Pemrograman Mobile**. Tampilan (UI) mengikuti desain Figma EcoWalk: splash, login, registrasi, verifikasi OTP, lupa kata sandi, dan profil.
 
-- **Nama:** Nama Lo
-- **NIM:** NIM Lo
+- **Nama:** Dimas Wahyu Firziansyah
+- **NIM:** 41824010088
 - **Mata kuliah:** Pemrograman Mobile
 
 ## Fitur
