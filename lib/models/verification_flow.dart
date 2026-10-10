@@ -1,0 +1,1 @@
+enum VerificationFlow { register, resetPassword }
